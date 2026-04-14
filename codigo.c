@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int main ()
+int main ();
 {
-  int opc:
-  float n1,n2,res:
+  int opc;
+  float n1,n2,res;
   
   Printf("Ingrese el primer numero ");
   Scanf("%f",&n1);
