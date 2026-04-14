@@ -13,5 +13,7 @@ int main ()
 
   res= n1+n2;
 
-  printf("resultado: %2.f
+printf("resultado: %2.f\n",res); 
+ 
 }
+return 0;
